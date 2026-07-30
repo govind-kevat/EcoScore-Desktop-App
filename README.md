@@ -162,28 +162,41 @@ LoginFrame.java
 ```
 
 ---
+## 📷 Application Screenshots
 
-## 📷 Screenshots
+### 🔐 Login Page
 
-### Login Screen
+![Login](Login.png)
 
-(Add Screenshot)
+---
 
-### Dashboard
+### 🏠 Dashboard
 
-(Add Screenshot)
+![Dashboard](Home%20page.png)
 
-### Calculator
+---
 
-(Add Screenshot)
+### 🧮 EcoScore Calculator
 
-### Previous Reports
+![Calculator](Calculation.png)
 
-(Add Screenshot)
+---
 
-### Profile
+### 📊 EcoScore Report
 
-(Add Screenshot)
+![Report](Eco%20Score%20Report.png)
+
+---
+
+### 🤖 AI Eco Suggestions
+
+![AI Assistant](AI%20Assistent.png)
+
+---
+
+### 👤 My Profile
+
+![Profile](My%20Profile.png)
 
 ---
 
